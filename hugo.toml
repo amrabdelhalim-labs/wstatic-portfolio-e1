@@ -1,0 +1,4 @@
+baseURL = 'https://amrgomaa2002.github.io/portfolio/'
+relativeURLs = true
+languageCode = 'ar'
+title = 'صفحتي الشخصية'

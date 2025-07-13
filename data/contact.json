@@ -1,0 +1,25 @@
+{ 
+    "call": {
+        "title": "الهاتف المحمول",
+        "icon": "fa-solid fa-phone",
+        "content": "+20 11 0187 0512"
+    },
+
+    "chat": {
+        "title": "مراسلة عبر واتس أب",
+        "icon": "fab fa-whatsapp",
+        "content": "+20 11 0187 0512"
+    },
+
+    "email1": {
+        "title": "البريد الإلكتروني الشخصى",
+        "icon": "fa-solid fa-envelope",
+        "content": "amrgomaa2002@outlook.com"
+    },
+
+    "email2": {
+        "title": "البريد الإلكتروني الخاص بالعمل",
+        "icon": "fa-solid fa-envelope",
+        "content": "example@company.com"
+    }
+}

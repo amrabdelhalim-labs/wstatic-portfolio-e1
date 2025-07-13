@@ -1,0 +1,25 @@
+{
+    "fullName": {
+        "title": "الأسم",
+        "icon": "fa-solid fa-user-alt",
+        "content": "عمرو جمعة فتحي عبدالحليم"
+    },
+
+    "maritalStatus": {
+        "title": "الحالة الإجتماعية",
+        "icon": "fa-solid fa-heart",
+        "content": "أعزب"
+    },
+
+    "myBirthday": {
+        "title": "تاريخ الميلاد",
+        "icon": "fa-solid fa-birthday-cake",
+        "content": "02-04-2002"
+    },
+
+    "nationality": {
+        "title": "الجنسية",
+        "icon": "fa-solid fa-flag",
+        "content": "مصري"
+    }
+}
