@@ -4,7 +4,7 @@ COPY --chown=hugo:hugo . .
 USER root
 RUN mkdir /output && chown hugo:hugo /output
 USER hugo
-RUN hugo --baseURL http://localhost/ --destination /output --minify
+RUN hugo --baseURL / --destination /output --minify
 
 FROM nginx:1.30-alpine
 COPY --from=build /output /usr/share/nginx/html
